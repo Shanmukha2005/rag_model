@@ -1,0 +1,11 @@
+faiss-cpu>=1.8.0
+fastapi>=0.115.0
+google-generativeai>=0.8.3
+numpy>=1.26.0
+openai>=1.40.0
+opencv-python>=4.10.0
+pillow>=10.4.0
+python-dotenv>=1.0.1
+torch>=2.3.0
+transformers>=4.44.0
+uvicorn>=0.30.6
